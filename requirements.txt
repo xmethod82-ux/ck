@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+psutil
+python-dotenv
